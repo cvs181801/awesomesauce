@@ -1,2 +1,2 @@
 # awesomesauce
-My Projects
+This is a brief description.
