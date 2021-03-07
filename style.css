@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    color: darkgrey;
+    background-color: hotpink;
+}
+.intro {
+    color: darkblue;
+}
+.greeting {
+    color: darkolivegreen;
+}
