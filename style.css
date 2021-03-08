@@ -12,8 +12,8 @@ h2 {
 }
 div {
     text-align: center;
-    color: rgb(24, 31, 31);
-    background-color: beige;
+    color: aqua;
+    background-color:rgb(24, 31, 31);
 }
 .Page2Header {
     font-size: 20px;
@@ -22,5 +22,6 @@ div {
 }
 
 a {
-    color: aqua;
+    color: hotpink;
+    background-color:rgb(24, 31, 31);
 }
