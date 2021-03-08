@@ -15,3 +15,12 @@ div {
     color: rgb(24, 31, 31);
     background-color: beige;
 }
+.Page2Header {
+    font-size: 20px;
+    color:rgb(24, 31, 31);
+    background-color: beige;
+}
+
+a {
+    color: aqua;
+}
