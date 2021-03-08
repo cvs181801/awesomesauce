@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    color: black;
-    background-color: hotpink;
+    color: grey;
+    background-color: white;
 }
 .intro {
     color: darkblue;
 }
 .greeting {
-    color: darkolivegreen;
+    color: darkblue;
 }
