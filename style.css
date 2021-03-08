@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    color: grey;
+    color: rgb(24, 31, 31);
     background-color: white;
 }
-.intro {
-    color: darkblue;
+h1 {
+    background-color: aquamarine;
 }
-.greeting {
-    color: darkblue;
+h2 {
+    background-color: aquamarine;
 }
