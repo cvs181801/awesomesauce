@@ -1,6 +1,6 @@
 var mallText = document.querySelector("#mallSoftText").textContent;
 mallText = "Happiness";
-mallSoftText.style.color = "green";
+mallSoftText.style.color = "teal";
 
 var page1Btn = document.getElementById("btnPage1");
 page1Btn.addEventListener("Click", function() {
