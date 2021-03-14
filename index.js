@@ -1,6 +1,6 @@
-var mallText = document.getElementById("mallSoftText");
+var mallText = document.querySelector("mallSoftText").textContent;
 mallText = "Happiness";
-console.log(mallText);
+
 
 
 
