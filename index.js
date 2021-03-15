@@ -8,6 +8,7 @@ page1Btn.addEventListener("Click", function() {
 })
 
 var inputBox = document.getElementById("text-boxPg1")
+inputBox.value = "Hey!";
 
 
 
