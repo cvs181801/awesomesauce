@@ -6,10 +6,10 @@ mallSoftText.style.color = "teal";
 page1Btn.style.background = "purple";
 var page1Btn = document.getElementById("btnPage1");
 
-var handleButtonClick() {
-    console.log("Call 1-800-tRopicAL-PoPicAl");
+const handleButtonClickfunction () {
+    page1Btn.innerHTML += "<button>Call 1-800-tRopicAL-PoPicAl</button>";
 }
-page1Btn.addEventListener("Click", handleButtonClick);
+page1Btn.addEventListener("click", handleButtonClickfunction);
 
 //add text box controls
 var inputBox = document.getElementById("text-boxPg1")
