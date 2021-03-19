@@ -1,6 +1,6 @@
 var mallText = document.querySelector("#mallSoftText").textContent;
-mallText = "Happiness";
-mallSoftText.style.color = "teal";
+   mallText = "Happiness";
+      mallSoftText.style.color = "teal";
 
 //add button controls
 var page1Btn = document.getElementById("btnPage1");
