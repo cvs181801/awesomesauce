@@ -6,9 +6,9 @@
 var page1Btn = document.getElementById("btnPage1");
 page1Btn.style.color = "purple";
 
-const handleButtonClickfunction () {
+const handleButtonClickfunction () ({
     page1Btn.innerHTML += "<button>Call 1-800-tRopicAL-PoPicAl</button>";
-}
+})
 page1Btn.addEventListener("click", handleButtonClickfunction);
 
 //add text box controls
